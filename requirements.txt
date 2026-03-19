@@ -1,0 +1,6 @@
+langgraph==0.2.74
+pypdf==5.1.0
+python-dotenv==1.0.1
+reportlab==4.2.5
+requests==2.32.3
+streamlit==1.41.1
